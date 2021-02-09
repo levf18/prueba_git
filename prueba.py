@@ -6,3 +6,5 @@ Created on Mon Feb  8 19:19:45 2021
 """
 
 print ('Hola mundo')
+print ('Hola mundo dos')
+print ('Hola mundo tres')
